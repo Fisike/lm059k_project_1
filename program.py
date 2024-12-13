@@ -1,4 +1,4 @@
-# program.py
+# program.py teszteléshez
 
 class Calculator:
     def add(self, a, b):
